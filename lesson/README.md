@@ -1,6 +1,3 @@
-Packing repository using repomix...
-Querying Gemini AI using gemini-2.0-flash-thinking-exp-01-21...
-```markdown
 # 2-Week Node.js Todo Application Course
 
 ## Overview
@@ -85,4 +82,3 @@ To get started with the course, follow these steps:
 6.  **Open in browser:** Open your web browser and go to `http://localhost:3000`. You should see the Todo application running.
 
 **Congratulations!** You are now ready to begin the 2-Week Node.js Todo Application Course. Refer to the `lesson-plan.md` for a detailed daily breakdown of the course content. Good luck and enjoy learning!
-```
